@@ -8,7 +8,7 @@ This application is written using Python 3.9.7 with the Streamlit library to cre
 
 ![Screenshot from Ganache of transaction](Fintech_Finder_transaction.png)
 
-![Screenshot from Ganache of transaction details](Fintech_Finder_recipient.png)
+![Screenshot from Ganache of transaction details](Fintech_Finder_transaction_details.png)
 
 ## Installation Guide
 Install the os, request and streamlit libraries, the Wallet module from bip44, Account, middleware and medium_gas_price_strategy modules from the Web3.py library, the dataclass function and data types from the typing module, and define a variable, w3, indicating the Ganache personal blockchain provider. 
